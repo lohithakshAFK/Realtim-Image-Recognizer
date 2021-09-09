@@ -1,0 +1,43 @@
+.heading{
+    font-size:25px !important;
+    width:100%;
+    margin:0px;
+    box-shadow:5px 5px 5px orange;
+}
+
+.heading_div{
+    float:none;
+    background-color:aliceblue;
+    padding:10px;
+    border-radius:50px;
+    color:black;
+    box-shadow:5px 5px 5px slategray;
+    font-size: 18px;
+}
+
+.headin_div2{
+    font-size:15px;
+}
+
+.object{
+    box-shadow:5px 5px 5px black;
+    font-size:20px;
+
+}
+
+ .footer{
+     position:fixed;
+     color:white;
+     background-color:darkgray;
+     width:100%;
+     text-align:center;
+     bottom:0;
+     line-height:2;
+ }
+
+ canvas{
+     border:dashed 5px black;
+     border-radius:50px;
+     box-shadow:5px 5px 5px black;
+     margin-top:120px;
+ }
